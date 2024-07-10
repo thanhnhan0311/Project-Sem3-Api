@@ -1,0 +1,42 @@
+﻿[
+    {
+        "Id": "0",
+        "UserId": "2",
+        "VariantId": "1",
+        "Quanity": "30",
+        "OrderStatusId": "16",
+        "TotalPrice": "3000",
+        "CreatedAt": "2024-06-27 18:11:11.0333333",
+        "PaymentId": "1"
+    },
+    {
+        "Id": "0",
+        "UserId": "2",
+        "VariantId": "2",
+        "Quanity": "15",
+        "OrderStatusId": "16",
+        "TotalPrice": "1050",
+        "CreatedAt": "2024-06-27 18:11:11.0333333",
+        "PaymentId": "1"
+    },
+    {
+        "Id": "0",
+        "UserId": "2",
+        "VariantId": "3",
+        "Quanity": "18",
+        "OrderStatusId": "16",
+        "TotalPrice": "1980",
+        "CreatedAt": "2024-06-27 18:11:11.0333333",
+        "PaymentId": "1"
+    },
+    {
+        "Id": "0",
+        "UserId": "2",
+        "VariantId": "4",
+        "Quanity": "50",
+        "OrderStatusId": "16",
+        "TotalPrice": "4500",
+        "CreatedAt": "2024-06-27 18:11:11.0333333",
+        "PaymentId": "1"
+    }
+]

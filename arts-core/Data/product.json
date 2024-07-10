@@ -1,0 +1,767 @@
+﻿[
+    {
+        "Id": "0",
+        "Name": "Crayola Brush & Detail Dual Tip Marker Set, 16 Markers, 32 Colors, Adult Coloring Markers, Gifts for Teens & Adults",
+        "Description": "BRUSH MARKERS & DECORATIVE TIN: Includes 16 dual-tip brush markers with ultra-fine tip for a total of 32 complementary colors THICK & THIN: These Dual-Ended markers feature a brush tip & Ultra-fine tip for thick and thin lines. Brush markers are popular for practicing calligraphy and hand lettering.",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "1",
+        "WarrantyDuration": "5",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "71aqYrvFgyL._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "50",
+                "Price": "14",
+                "SalePrice": "70",
+                "AvailableQuanity": "50",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "142 Pc Art Set with Colored Pencils, Crayons, Pastels, Watercolors in Wood Carrying Case",
+        "Description": "Art 101 is a leading supplier of innovative and fun artistic products with 13 years of experience providing high-quality artistic tools at an affordable price Country of origin : China Includes 24 Premium Core Colored Pencils which color, shade, and blend beautifully",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "1",
+        "WarrantyDuration": "8",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "91xhTIV+9yS._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "30",
+                "Price": "30",
+                "SalePrice": "30",
+                "AvailableQuanity": "30",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "102-Piece Deluxe Wooden Art Supply Set - 24 Watercolors, 17 Brushes, 24 Colored Pencils, Sketch Pads",
+        "Description": "Exclusive deluxe drawing kit for the beginner or as an intro set Great for traveling and makes a great gift 82-Piece Wood Box Drawing Set Includes: 24 colored pencils, 24 oil pastels, 24 watercolor cakes, 3 Mixing trays, 2 drawing pencils, 2 paint brushes, sharpener, ruler, eraser",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "1",
+        "WarrantyDuration": "7",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "91k5YDhmtaL._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "50",
+                "Price": "18",
+                "SalePrice": "80",
+                "AvailableQuanity": "50",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Golden State Art, 10x12.5 Kids Art Frames, Front-Opening, Great for Kids Drawings, Artworks, Children Art Projects, Schoolwork, Home or Office (Black, Set of 2)",
+        "Description": "S【Good-Quality Kids Art Frames】 Front Opening Kids Artwork Frames Use High-Quality Tempered Glass and Eco-Friendly MDF Frame Molding, Without Mat and Fixed Nail.Smooth and Wont Hurt Hand. The Children Art Projects Provide Clear View and Artistic Atmosphere for the Artwork. Our Frame Enhancing the Beauty of Your Child's Creations,Adds a Touch of Elegance and Artistic Atmosphere to Room.",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "1",
+        "WarrantyDuration": "10",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "7137hPl877L._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "70",
+                "Price": "18",
+                "SalePrice": "90",
+                "AvailableQuanity": "70",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "STAEDTLER calligraphy pen set, ideal for all skill levels, 899 SM5, Assorted, 33 Piece Set",
+        "Description": "Calligraphy pen set in convenient, travel ready metal storage tin! Develop your calligraphy skills in order to express your creativity through a wide range of lettering styles Interchangeable nibs in Extra Fine, Fine, Medium, Broad, Extra Broad, can be used with any of the 4 fountain pen bodies included! Add color to your page with 20 assorted cartridges to choose from! Colors include: 5ea blue and black, 2ea yellow, orange, pink, green, brown",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "1",
+        "WarrantyDuration": "12",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "618p0NVdPeL._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "120",
+                "Price": "21",
+                "SalePrice": "180",
+                "AvailableQuanity": "80",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Wall Art Modern Artwork Fantasy Abstract Canvas Painting Colorful Wall Decor for Living Room Bedroom Dining Room Home Office Decor 30x60 with Framed",
+        "Description": "【Suitable Size for Livingroom Wall Decor】 - This cool artwork wall decor measures approx 30x60 inches(75x150cm);Suitable size makes it a great seascape decor addition to your home.comes with pre-installed hooks, you just need to measure the wall size and hang the art prints when it arrives. 【Durable & Waterproof Canvas Wall Art】 - This abstract canvas wall art painting are made of high-quality canvas material to ensure durability, and we print with high-quality inks, never fade over time.Also wrapped in a wood frame that will last,tightly stretched to ensure the canvas won't crease and bend.",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "1",
+        "WarrantyDuration": "20",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "71kVZ4nuilL._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "70",
+                "Price": "100",
+                "SalePrice": "70",
+                "AvailableQuanity": "60",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "GoldGiftIdeas Silver Plated Tulsi Plant Pooja Thali Set, Traditional Return Gift for Home Function, Indian Pooja Items for Gift, Pooja Articles for Indian Festival with Potli Bags (10)",
+        "Description": "Material: Silver Plated, Detailed Dimensions: 11 x 5 CM, Package Contains: 10 Tulsi Plant and Designer Potli Bags , (Each product comes in the individual separate Potli Bags so it can be gifted easily to your loved ones without any hassle.) Presented to you on the occasion of diwali, raksha bandhan & other festive season. Also use as a best wedding and other small home function return gifts.",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "2",
+        "WarrantyDuration": "0",
+        "Unit": "7",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "71U+bdz8ywL._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "70",
+                "Price": "45",
+                "SalePrice": "70",
+                "AvailableQuanity": "60",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "GoldGiftIdeas Oxidized Silver Plated Oval Cow and Calf Idol (Kamdhenu Cow), Home Decor Showpiece for Gift, Indian Pooja Items Silver, Return Gift for Baby Shower and Housewarming (7 x 7 cm) (10)",
+        "Description": "Material: Silver Plated, Detailed Dimensions: 7 x7 CM, Package Contains: 10 Cow Calf Idol and Designer Corrugated Box , (Each product comes in the individual separate Corrugated Box so it can be gifted easily to your loved ones without any hassle.) Presented to you on the occasion of diwali, raksha bandhan & other festive season. Also use as a best wedding and other small home function return gifts. It comes with an Attractive Designer Corrugated Box.",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "2",
+        "WarrantyDuration": "0",
+        "Unit": "10",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "71pSOd+y5fL._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "100",
+                "Price": "59",
+                "SalePrice": "0",
+                "AvailableQuanity": "100",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Gift Items Metal Krishna Idol Murti with Kamdhenu Cow - Gold Plated Showpiece Articles for Home Decor, Office,House Warming (Set of 1)",
+        "Description": "Considered a must have element in Vastu. Kamadhenu Cow is considered a wish granting symbol. Place anywhere in house or workplace for Health, Wealth and Prosperity Size : 6 Inches Height X 5.5 Inches wide X 3 Inches depth.Weight : 340g. Material : Aluminum with golden finish.",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "2",
+        "WarrantyDuration": "0",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "71Q-bzEn37L._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "200",
+                "Price": "13",
+                "SalePrice": "0",
+                "AvailableQuanity": "200",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Signature gifts Personalized War Newspaper History Book - War Keepsake Educational Gift Told Through Newspaper Coverage - Add a Gift Message and Gold Embossed Name",
+        "Description": "A unique insight into the horrors of World War Two through newspaper articles from the time. Relive all the major events from the invasion of Poland, to the surrender of Japan, through tabloid size reprints of Washington Post articles and photos.",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "2",
+        "WarrantyDuration": "0",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "91av7dz4BcL._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "40",
+                "Price": "84",
+                "SalePrice": "70",
+                "AvailableQuanity": "40",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "PARIJAT HANDICRAFT Brass statue of lord vishnu hindu god idol sculpture home temple décor gift pooja article (Snake)",
+        "Description": "Material: Brass, Weight - 210 Grams Approx. Dimensions: - Length:- 3 Width:- 1.9 Height:- 2.5 Inches. Weight:- 313 Gram Approx Vishnu statue in solid brass metal. Casted in pure brass metal and hand-polished Complete the decor of your home in the utmost of style or add some Indian flair to your living room decor.",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "2",
+        "WarrantyDuration": "0",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "71uKgCIcpHL._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "100",
+                "Price": "35",
+                "SalePrice": "0",
+                "AvailableQuanity": "100",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "anuman Ji Statue Sitting in Metal Hanuman Ji Idol Bajrangbali Murti Gift Article Decorative Showpiece, Multicolour, 1 Piece.",
+        "Description": "Size Dimension - Height 7.5 CM, Length 16 CM, Width 7.5 CM, Weight - 380 Grams and Material is Metal. Hanuman is Considered as the God of Strength and Power. Hanuman Is The Protective Shield When He Is Properly Energized Through Prayer And Meditation. Lord Hanuman Symbolises Pleasure and Joy, Which is Indicative of Wealth and Good Luck.",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "2",
+        "WarrantyDuration": "0",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "61tlhm4f06L._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "200",
+                "Price": "24",
+                "SalePrice": "0",
+                "AvailableQuanity": "200",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "American Greetings Deluxe All Occasion Cards with Envelopes - Birthday, Thanks, Congrats and More (40-Count)",
+        "Description": "This deluxe assortment includes 40 cards and 40 envelopes This deluxe greeting card bundle features 40 cards for popular everyday occasions, packaged in a durable keepsake box with a matte finish and a painterly design. You’ll have 40 assorted cards to stay connected with everyone: friend, co-worker, classmate,",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "3",
+        "WarrantyDuration": "0",
+        "Unit": "40",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "91SzsaMxs2L._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "30",
+                "Price": "19",
+                "SalePrice": "0",
+                "AvailableQuanity": "30",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Hallmark All Occasion Cards Assortment—48 Cards and Envelopes with Card Organizer Box",
+        "Description": "Send a note of celebration, sympathy, or encouragement with one of the versatile assorted cards in this boxed set. Covers feature modern designs, accented with embossing, glitter, and metallic foil. Each card contains a unique sentiment inside. Assortment includes 2 each of 24 designs (48 total): 12 birthday cards; 2 thank you cards, congratulations",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "3",
+        "WarrantyDuration": "0",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "91bgPdaAfdL._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "100",
+                "Price": "22",
+                "SalePrice": "0",
+                "AvailableQuanity": "60",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Hallmark All Occasion Boxed Set of Assorted Blank Greeting Cards with Card Organizer (Pack of 100)—Birthday, Thank You, Congratulations, Wedding, Baby, Thinking of You, Sympathy",
+        "Description": "Send a note of celebration, sympathy, or encouragement with one of the versatile assorted cards in this boxed set. Covers feature modern designs, accented with embossing, glitter, and metallic foil. Each card is blank inside. Assortment includes 2 each of 50 designs (100 total): 12 birthday cards; 5 thank you cards; 4 Christmas cards; 3 congratulations cards,",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "3",
+        "WarrantyDuration": "0",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "91hAdsaT-bL._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "100",
+                "Price": "29",
+                "SalePrice": "0",
+                "AvailableQuanity": "100",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Hallmark Blank Cards Assortment, 24 Cards with Envelopes (Citrus, Greenery, Gingham, Strawberries) for Easter, Mother's Day, Any Occasion",
+        "Description": "Sunny pack of assorted blank cards makes it easy to say miss you, thank you, or recognize special everyday moments. Card pack includes 24 cards (4 of each design) featuring strawberries, gingham, daisies, leaves, and lemons in summery colors, accented with foil. Each one is blank inside for your own personalized message.",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "3",
+        "WarrantyDuration": "0",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "811BojFm08L._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "50",
+                "Price": "11",
+                "SalePrice": "0",
+                "AvailableQuanity": "50",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Hallmark All Occasion Handmade Boxed Set of Assorted Greeting Cards with Card Organizer (Pack of 24)—Birthday, Baby, Wedding, Sympathy, Thinking of You, Thank You, Blank",
+        "Description": "Stock up for celebrations and events throughout the year with this set of greeting cards with coordinating envelopes. Storage box features a magnetic closure and dividers to keep cards organized by occasion. Each card is individually crafted with special embellishments to elevate any heartfelt message. Buy this card assortment with confidence; the Hallmark brand is widely recognized as the very best for greeting cards, gift wrap, and more.",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "3",
+        "WarrantyDuration": "0",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "91jFFgXWgVL._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "30",
+                "Price": "29",
+                "SalePrice": "0",
+                "AvailableQuanity": "30",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Baby Alive Magical Mixer Baby Doll Tropical Treat with Blender Accessories, Drinks, Wets, Eats, Brown Hair Toy for Kids Ages 3 and Up",
+        "Description": "TOY BLENDER REALLY WORKS – Baby’s ready for a treat. Pretend to make her a tropical shake in a real working toy blender. Add yellow doll food and water into blender. Then push down button to mix. SHE LOVES TO EAT AND DRINK – After you mix up a sweet treat for baby, feed her with the included spoon, then give her a few sips of water from her bottle to wash it down. Doll really eats and drinks.",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "4",
+        "WarrantyDuration": "1",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "719OyuozxnL._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "10",
+                "Price": "20",
+                "SalePrice": "27",
+                "AvailableQuanity": "10",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Constructive Playthings Huggable Multi-Cultural Baby Dolls for Kids, Set of 4",
+        "Description": "DIVERSE BABY DOLLS: Includes four multi-ethnic dolls with chunky bodies and included diapers so children can see themselves and friends represented NURTURING INSTINCTS: Littles can swaddle, change and put these baby dolls with included diapers to bed, encouraging their natural nurturing instincts and gentle behaviors SOCIAL-EMOTIONAL LEARNING: These multi-cultural baby dolls help promote social-emotional learning through play",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "4",
+        "WarrantyDuration": "1",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "61sQoZp30WL._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "20",
+                "Price": "55",
+                "SalePrice": "0",
+                "AvailableQuanity": "10",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Mattel Disney Princess Toys, Small Doll Party Set with 6 Posable Princess Dolls in Sparkling Clothing & 13 Tea Time Accessories",
+        "Description": "These 6 princess small dolls are inspired by beloved animated characters from popular Disney movies! Celebrate in regal style with 13 tea party accessories, including a tea pot, teacups and sweet treats. Each Disney Princess small doll wears her classic movie outfit and is posable for play and display fun.",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "4",
+        "WarrantyDuration": "0",
+        "Unit": "6",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "81oXiFvyB8L._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "5",
+                "Price": "57",
+                "SalePrice": "64",
+                "AvailableQuanity": "5",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Rainbow High Jade, Green with Slime Kit & Pet,Shimmer Posable Fashion Doll with DIY Sparkle Slime, Magical Yeti Pet. Fun Play Accessories, Great Toy Gift for Girls Kids Ages 4-12 Years",
+        "Description": "INSPIRE KIDS TO BE CREATIVE: Discover and play with your favorite Rainbow High dolls in a new magical way. Every doll comes with a special pet, customizable fashion, and a Sparkle Slime Kit. SPARKLE SLIME KIT. Jade Hunter comes with everything you need to make DIY sparkle slime, including slime & sparkle powders and a crystal shaker to make and store the slime. Just pour the colorless slime and sparkle powders into the crystal, add a little bit of water, and shake it up to reveal a shimmery green slime! *To make the best slime, be",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "4",
+        "WarrantyDuration": "0",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "81vesCTEY4L._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "10",
+                "Price": "14",
+                "SalePrice": "24",
+                "AvailableQuanity": "10",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Na! Na! Na! Surprise Minis Series 3 Fashion Doll - Mystery Packaging with Confetti Surprise, Includes 4 Small Doll, Outfit, Shoes, Poseable, Great Toy Gift for Kids Girls Boys Ages 4 5 6 7 8+ Years",
+        "Description": "YOUR FAVORITE CHARACTERS ARE NOW MINIATURE: Say hello to your favorite cozy crew as collectible minis! They stand at 4” tall and are smaller and cuter than ever. There are 12 to collect in Series 3! IT'S ALL IN THE DETAILS: Different scale, same high quality! Each doll has beautiful face details, rooted hair and adorable animal-inspired fashions.",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "4",
+        "WarrantyDuration": "0",
+        "Unit": "0",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": ""
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "81Un+auB4jL._AC_UL320_.jpg",
+                "Quanity": "7",
+                "Price": "7",
+                "SalePrice": "9",
+                "AvailableQuanity": "7",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Amazon Basics 1/3-Cut Tab, Assorted Positions File Folders, Letter Size, Manila - Pack of 100",
+        "Description": "100 manila letter-size file folders; ideal for 8-1/2 x 11-inch documents 1/3 cut reinforced tabs in assorted positions (left, middle, right) for easy labeling and readability 11-point stock expands up to 3/4 inch while remaining sturdy",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "5",
+        "WarrantyDuration": "0",
+        "Unit": "100",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "61fuHeaBSaL._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "70",
+                "Price": "17",
+                "SalePrice": "19",
+                "AvailableQuanity": "60",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Pendaflex File Folders, Letter Size, 8-1/2 x 11, Classic Manila, 1/3-Cut Tabs in Left, Right, Center Positions, 100 Per Box (65213)",
+        "Description": "TRIED AND TRUE: Pendaflex Standard Manila File Folders slip seamlessly into many existing filing systems and are easy to label, easy to read and easy to replace 1/3-CUT TABS IN ASSORTED POSITIONS are staggered from left to right for perfect visibility in your vertical or lateral file cabinet",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "5",
+        "WarrantyDuration": "0",
+        "Unit": "100",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "71dSKSsN-9L._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "100",
+                "Price": "17",
+                "SalePrice": "0",
+                "AvailableQuanity": "100",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Amazon Basics Hanging Organizer File Folder, Letter Size, Assorted Colors - Pack of 25",
+        "Description": "25 letter-size hanging file folders in assorted colors (5 each: Red, Orange, Yellow, Green, Blue); ideal for 8-1/2 x 11-inch documents 1/5-cut tab slots; includes adjustable clear plastic tabs and removable paper inserts for labeling Sturdy paper stock; scored bottom provides easy expandability",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "5",
+        "WarrantyDuration": "0",
+        "Unit": "25",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "91A6sFwhe1L._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "70",
+                "Price": "13",
+                "SalePrice": "15",
+                "AvailableQuanity": "60",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Pendaflex Two Tone Color File Folders, Letter Size, Assorted Colors (Teal, Violet, Gray, Navy and Burgundy), 1/3-Cut Tabs, 5 Color, 100/Box, (02315)",
+        "Description": "Pendaflex Two Tone Color File Folders have light interiors for foolproof filing; pretty jewel tones add a pop of color to files; use with hanging file folders in a file system or alone; 100 per box Our folders are lighter on the inside; file folders with a light interior are easy to label with ordinary pens, easier to read, and help prevent accidental misfiles in the filing cabinet Boost your speed and efficiency; color file folders in teal, violet, gray, navy and burgundy let you spot the right file through color association and speed filing and retrieval times",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "5",
+        "WarrantyDuration": "0",
+        "Unit": "100",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "61b5KWm5BcL._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "50",
+                "Price": "19",
+                "SalePrice": "0",
+                "AvailableQuanity": "70",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    },
+    {
+        "Id": "0",
+        "Name": "Pendaflex Two-Tone Color File Folders, Letter Size, Assorted Colors (Bright Green, Yellow, Red, Blue), 1/3-Cut Tabs, Assorted, 36 Pack (03086), 4-color",
+        "Description": "IT'S LIGHTER ON THE INSIDE; a light interior is easy to label with an ordinary pen, easier to read and prevents accidental misfiles between folders BOOST SPEED and EFFICIENCY: color folders in bright red, green, yellow and blue let you spot the right file through color association and speed filing and retrieval times",
+        "CreatedAt": "2024-06-14 18:11:11.0333333",
+        "IsActive": "true",
+        "CategoryId": "5",
+        "WarrantyDuration": "0",
+        "Unit": "36",
+        "ProductImages": [
+            {
+                "Id": "0",
+                "ImageName": "61XX5VvsQFL._AC_UL320_.jpg"
+            }
+        ],
+        "Variants": [
+            {
+                "Id": "0",
+                "VariantImage": "",
+                "Quanity": "50",
+                "Price": "11",
+                "SalePrice": "15",
+                "AvailableQuanity": "50",
+                "CreateAt": "2024-06-14 18:11:11.0333333",
+                "Active": "true"
+            }
+        ]
+    }
+
+
+
+
+
+
+
+
+
+]

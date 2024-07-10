@@ -1,0 +1,58 @@
+﻿[
+    {
+        "Id": "0",
+        "VariantId": "1",
+        "AttributeTypeId": "11",
+        "AttributeValue": "S",
+        "Priority": "1"
+    },
+    {
+        "Id": "0",
+        "VariantId": "1",
+        "AttributeTypeId": "12",
+        "AttributeValue": "Red",
+        "Priority": "1"
+    },
+    {
+        "Id": "0",
+        "VariantId": "2",
+        "AttributeTypeId": "11",
+        "AttributeValue": "M",
+        "Priority": "1"
+    },
+    {
+        "Id": "0",
+        "VariantId": "2",
+        "AttributeTypeId": "12",
+        "AttributeValue": "White",
+        "Priority": "1"
+    },
+    {
+        "Id": "0",
+        "VariantId": "3",
+        "AttributeTypeId": "11",
+        "AttributeValue": "M",
+        "Priority": "1"
+    },
+    {
+        "Id": "0",
+        "VariantId": "3",
+        "AttributeTypeId": "12",
+        "AttributeValue": "Blue",
+        "Priority": "1"
+    },
+    {
+        "Id": "0",
+        "VariantId": "4",
+        "AttributeTypeId": "11",
+        "AttributeValue": "L",
+        "Priority": "1"
+    },
+    {
+        "Id": "0",
+        "VariantId": "1",
+        "AttributeTypeId": "12",
+        "AttributeValue": "Purple",
+        "Priority": "1"
+    }
+]

@@ -1,0 +1,13 @@
+﻿[
+    {
+        "Id": "0",
+        "Fullname": "Nguyen Thanh Nhan",
+        "UserId": "2",
+        "PhoneNumber": "0707437553",
+        "AddressDetail": "41/73 Le Loi,P.04,Q.Go Vap",
+        "Province": "TP.HCM",
+        "District": "Go Vap",
+        "Ward": "04",
+        "IsDefault": false
+    }
+]

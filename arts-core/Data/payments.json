@@ -1,0 +1,10 @@
+﻿[
+    {
+        "Id": "0",
+        "ShipFee": 100,
+        "PaymentTypeId": "7",
+        "DeliveryTypeId": "1",
+        "IsCancel": false,
+        "AddressId": "1"
+    }
+]

@@ -1,0 +1,54 @@
+﻿[
+    {
+        "Id": "0",
+        "Email": "nhan@gmail.com",
+        "Fullname": "Nguyen Thanh Nhan",
+        "Password": "$2a$11$G4aRgyFSYhKJ0KOjWNgedO/Q3mgWccVhRAwBgiKIJyvqjfNTS6kCO",
+        "Address": "41/73 Le Loi",
+        "Avatar": "avatar.jpg",
+        "Verifired": "true",
+        "CreateAt": "2024-06-14 18:11:11.0333333",
+        "UpdatedAt": "2024-06-14 18:11:11.0333333",
+        "RoleTypeId": "6",
+        "Active": "true"
+    },
+    {
+        "Id": "0",
+        "Email": "tan@gmail.com",
+        "Fullname": "Ngo Dinh Tan",
+        "Password": "$2a$11$G4aRgyFSYhKJ0KOjWNgedO/Q3mgWccVhRAwBgiKIJyvqjfNTS6kCO",
+        "Address": "53 Nguyen Son",
+        "Avatar": "avatar.jpg",
+        "Verifired": "true",
+        "CreateAt": "2024-06-14 18:11:11.0333333",
+        "UpdatedAt": "2024-06-14 18:11:11.0333333",
+        "RoleTypeId": "6",
+        "Active": "true"
+    },
+    {
+        "Id": "0",
+        "Email": "mai@gmail.com",
+        "Fullname": "Nguyen Thi Ngoc Mai",
+        "Password": "$2a$11$G4aRgyFSYhKJ0KOjWNgedO/Q3mgWccVhRAwBgiKIJyvqjfNTS6kCO",
+        "Address": "22 Tan Binh",
+        "Avatar": "avatar.jpg",
+        "Verifired": "true",
+        "CreateAt": "2024-06-14 18:11:11.0333333",
+        "UpdatedAt": "2024-06-14 18:11:11.0333333",
+        "RoleTypeId": "6",
+        "Active": "true"
+    },
+    {
+        "Id": "0",
+        "Email": "giu@gmail.com",
+        "Fullname": "Phan Van Giu",
+        "Password": "$2a$11$G4aRgyFSYhKJ0KOjWNgedO/Q3mgWccVhRAwBgiKIJyvqjfNTS6kCO",
+        "Address": "42 Thu duc",
+        "Avatar": "avatar.jpg",
+        "Verifired": "true",
+        "CreateAt": "2024-06-14 18:11:11.0333333",
+        "UpdatedAt": "2024-06-14 18:11:11.0333333",
+        "RoleTypeId": "6",
+        "Active": "true"
+    }
+]
